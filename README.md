@@ -32,7 +32,7 @@ The collected dataset is as follows :
         - Edible (`1` indicating yes or `0` indicating poisonous)  
   
   
-### 3.1 One hot encoded dataset
+### One hot encoded dataset
 For ease of implementation, we have one-hot encoded the features (turned them into 0 or 1 valued features)
 
 | Brown Cap | Tapering Stalk Shape | Solitary | Edible |
